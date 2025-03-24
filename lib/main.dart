@@ -36,7 +36,7 @@ class HydrochemistryApp extends StatelessWidget {
         Locale('ru'),
         Locale('kk'),
       ],
-      locale: const Locale('ru'), // Можно поменять на Locale('kk')
+      locale: const Locale('kk'), // Можно поменять на Locale('kk')
       home: const HomePage(),
     );
   }
